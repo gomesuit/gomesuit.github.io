@@ -3,10 +3,10 @@
   <groupId>jailer</groupId>
   <artifactId>jailer-core</artifactId>
   <versioning>
-    <release>0.1.1</release>
+    <release>0.1.2</release>
     <versions>
-      <version>0.1.1</version>
+      <version>0.1.2</version>
     </versions>
-    <lastUpdated>20160105172601</lastUpdated>
+    <lastUpdated>20160106024941</lastUpdated>
   </versioning>
 </metadata>
