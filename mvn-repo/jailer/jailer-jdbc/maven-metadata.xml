@@ -3,10 +3,10 @@
   <groupId>jailer</groupId>
   <artifactId>jailer-jdbc</artifactId>
   <versioning>
-    <release>0.1.4</release>
+    <release>0.1.6</release>
     <versions>
-      <version>0.1.4</version>
+      <version>0.1.6</version>
     </versions>
-    <lastUpdated>20160111130240</lastUpdated>
+    <lastUpdated>20160113110437</lastUpdated>
   </versioning>
 </metadata>
